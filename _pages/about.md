@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-Welcome to my personal web-page! My name is Yahao Chen. I am currently a post-doc researcher in the group of [Systems, Control and Applied Analysis](https://www.rug.nl/staff/departments/11710) at [University of Groningen (RUG)](https://www.rug.nl/) and my supervisor is [Stephan Trenn](https://stephantrenn.net/). I was a PhD student of [LMI](http://lmi.insa-rouen.fr/) at [Institut National des Sciences Appliquées (INSA) de Rouen](https://www.insa-rouen.fr/) under the supervision of [Witold Respondek](http://lmi.insa-rouen.fr/9-membres/professeurs/19-respondek-witold.html).
+Welcome to my personal web-page! My name is Yahao Chen (陈雅豪). I am currently a post-doc researcher in the group of [Systems, Control and Applied Analysis](https://www.rug.nl/staff/departments/11710) at [University of Groningen (RUG)](https://www.rug.nl/) and my supervisor is [Stephan Trenn](https://stephantrenn.net/). I was a PhD student of [LMI](http://lmi.insa-rouen.fr/) at [Institut National des Sciences Appliquées (INSA) de Rouen](https://www.insa-rouen.fr/) under the supervision of [Witold Respondek](http://lmi.insa-rouen.fr/9-membres/professeurs/19-respondek-witold.html).
 
 Research Interests
 ======
