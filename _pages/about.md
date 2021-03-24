@@ -35,7 +35,7 @@ My backgrounds
 
     - Thesis: Anti-windup Compensator for Control System Subject to Actuator Saturation (in Chinese)
 
-    - Supervisor: [Jiuxiang Dong](http://faculty.neu.edu.cn/ise/dongjiuxiang/DongHomePage.htm) and [Guang-Hong Yang](http://faculty.neu.edu.cn/ise/yangguanghong/) 
+    - Supervisors: [Jiuxiang Dong](http://faculty.neu.edu.cn/ise/dongjiuxiang/DongHomePage.htm) and [Guang-Hong Yang](http://faculty.neu.edu.cn/ise/yangguanghong/) 
 
 [comment]: <>(* September 2008-July 2012, Bachelor student, Measurement & Control Technology and Instruments, [Northeastern University (NEU)](http://english.neu.edu.cn/), China)
 
