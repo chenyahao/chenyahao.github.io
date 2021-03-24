@@ -14,7 +14,7 @@ Research Interests
 ======
 * Linear and nonlinear differential-algebraic equations (DAEs)
 * Nonlinear control systems
-* Geometric control
+* Geometric control methods
 * Switching DAEs with inconsistent initial values
 
 My backgrounds
