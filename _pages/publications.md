@@ -20,6 +20,6 @@ B.  Conference Papers
 
 C. Thesis
 ======
-* C1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](http://chenyahao.github.io/_publications/C1_Geo.md)", Georgia Institute of Technology, 2018. [PDF](http://chenyahao.github.io/files/paper1.pdf)
+* C1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](http://chenyahao.github.io/publications/C1_Geo)", Georgia Institute of Technology, 2018. [PDF](http://chenyahao.github.io/files/paper1.pdf)
 
 * C2.  
