@@ -24,6 +24,6 @@ B.  Conference Papers
 
 C. Thesis
 ======
-* C1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](C1Geo)", Normandie University, INSA de Rouen, 2019. [PDF](http://chenyahao.github.io/files/paper1.pdf)
+* C1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](http://chenyahao.github.io/publication/C1Geo)", Normandie University, INSA de Rouen, 2019. [PDF](http://chenyahao.github.io/files/paper1.pdf)
 
 * C2.  
