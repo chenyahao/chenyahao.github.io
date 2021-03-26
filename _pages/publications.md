@@ -7,11 +7,7 @@ author_profile: true
 
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xTOD5hAAAAAJ&hl=en&authuser=1#">my Google Scholar profile</a>.</u>
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include base_path %} 
 
 A. Journal Papers (submitted and peer-reviewed)
 ======
@@ -24,6 +20,6 @@ B.  Conference Papers
 
 C. Thesis
 ======
-* C1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](http://chenyahao.github.io/publications/C1Geo)", Normandie University, INSA de Rouen, 2019. [PDF](http://chenyahao.github.io/files/paper1.pdf)
+* C1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](site.publications.C1Geo)", Normandie University, INSA de Rouen, 2019. [PDF](http://chenyahao.github.io/files/paper1.pdf)
 
 * C2.  
