@@ -33,7 +33,7 @@ My backgrounds
 
 * October 2012-July 2015, Master student, Control Science and Engineering, [Northeastern University (NEU)](http://english.neu.edu.cn/), China
 
-    - Thesis: Anti-windup Compensator for Control System Subject to Actuator Saturation (in Chinese)
+    - Thesis: Anti-windup Compensator for Control Systems Subject to Actuator Saturation (in Chinese)
 
     - Supervisors: [Jiuxiang Dong](http://faculty.neu.edu.cn/ise/dongjiuxiang/DongHomePage.htm) and [Guang-Hong Yang](http://faculty.neu.edu.cn/ise/yangguanghong/) 
 
