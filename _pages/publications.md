@@ -11,15 +11,15 @@ author_profile: true
 
 A. Journal Papers (submitted and peer-reviewed)
 ======
-1. Y. Chen and W. Respondek, Geometric analysis of differential-algebraic equations via linear control theory, SIAM Journal on Control and Optimization, 59 (2021), pp. 103-130.
+(A1)  Y. Chen and W. Respondek, [Geometric analysis of differential-algebraic equations via linear control theory], SIAM Journal on Control and Optimization, 59 (2021), pp. 103-130.
  
-
+(A2)
 B.  Conference Papers
 ======
  
 
 C. Thesis
 ======
-1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](http://chenyahao.github.io/publication/C1Geo)", Normandie University, INSA de Rouen, 2019. [PDF](http://chenyahao.github.io/files/paper1.pdf)
+1. “[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](http://chenyahao.github.io/publication/C1Geo)", Normandie University, INSA de Rouen, 2019. \[[PDF](http://chenyahao.github.io/files/paper1.pdf)\]
 
 2.  
