@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xTOD5hAAAAAJ&hl=en&authuser=1#">my Google Scholar profile</a>.</u>
+ You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xTOD5hAAAAAJ&hl=en&authuser=1#">my Google Scholar profile</a>.</u>
  
 
 A. Journal Papers (submitted and peer-reviewed)
 ======
-(A1)  Y. Chen and W. Respondek, [Geometric analysis of differential-algebraic equations via linear control theory], SIAM Journal on Control and Optimization, 59 (2021), pp. 103-130.
+(A1)  **Y. Chen** and W. Respondek, [Geometric analysis of differential-algebraic equations via linear control theory](http://chenyahao.github.io/publication/A1Geo), *SIAM Journal on Control and Optimization*, 59 (2021), pp. 103-130. \[[PDF](http://chenyahao.github.io/files/paper1.pdf)\]
  
-(A2)
+(A2) **Y. Chen** and W. Respondek, [Geometric analysis of differential-algebraic equations via linear control theory](http://chenyahao.github.io/publication/A1Geo), submitted to *Journal of the Franklin Institute*. \[[PDF](http://chenyahao.github.io/files/paper1.pdf)\]
+
 B.  Conference Papers
 ======
  
