@@ -1,5 +1,5 @@
 ---
-title: "Matlab code for the paper [A2: From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](http://chenyahao.github.io/files/A2From.pdf)"
+title: "Matlab code for the paper [(A2) From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](http://chenyahao.github.io/files/A2From.pdf)"
 collection: code
 type: ".m files"
 permalink: /code/FBCF 
