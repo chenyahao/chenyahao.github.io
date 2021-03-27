@@ -8,7 +8,7 @@ author_profile: true
 
  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xTOD5hAAAAAJ&hl=en&authuser=1#">my Google Scholar profile</a>.</u>
  
-[test](http://chenyahao.github.io/publications/C1Geo)
+[Test](http://chenyahao.github.io/publications/C1Geo)
 
 A. Journal Papers  
 ======
