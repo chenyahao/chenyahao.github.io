@@ -13,7 +13,7 @@ main:
    # url: /portfolio/
         
   - title: "Code"
-    url: /teaching/
+    url: /code/
     
   - title: "CV"
     url: /cv/
