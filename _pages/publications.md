@@ -11,7 +11,7 @@ author_profile: true
 
 A. Journal Papers  
 ======
-(A1)  **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of differential-algebraic equations via linear control theory](https://epubs.siam.org/doi/abs/10.1137/20M1329330?casa_token=AIu59d4mDwUAAAAA:BFTGUEdK5YBPDbBcmJzFPb7_RW9zHJgQUrE53TA-YdfACTxIWTuFB8MyNQivsiGkZdnwrH9Viw), *SIAM Journal on Control and Optimization*, 59, pp. 103-130. \[[PDF](http://chenyahao.github.io/publications/2015-10-01-paper-title-number-3)\]
+(A1)  **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of differential-algebraic equations via linear control theory](https://epubs.siam.org/doi/abs/10.1137/20M1329330?casa_token=AIu59d4mDwUAAAAA:BFTGUEdK5YBPDbBcmJzFPb7_RW9zHJgQUrE53TA-YdfACTxIWTuFB8MyNQivsiGkZdnwrH9Viw), *SIAM Journal on Control and Optimization*, 59, pp. 103-130. \[[PDF](http://chenyahao.github.io/files/A1Geo.pdf)\]
  
 (A2) **Y. Chen\*** and W. Respondek (2020), [From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](), second submission to *Journal of the Franklin Institute*. \[[PDF](http://chenyahao.github.io/files/A2From.pdf)\]
 
