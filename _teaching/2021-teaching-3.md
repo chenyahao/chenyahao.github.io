@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Project"
 permalink: /teaching/2021-teaching-3
 venue: "University of Groningen, Faculty of Science and Engineering"
-date: 12/2020-01/2021
+date: 2021
 location: "Groningen, the Netherlands"
 ---
 I was a TA of [Prof. Stephan Trenn](https://stephantrenn.net/) for the bachelor project "Project Systems Theory"   

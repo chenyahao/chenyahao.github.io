@@ -4,7 +4,7 @@ collection: teaching
 type: "Engineer course"
 permalink: /teaching/2017-teaching-1
 venue: "INSA de Rouen, Génie Mathématique"
-date: 2017, 2018
+date: 2017
 location: "Rouen, France"
 ---
 

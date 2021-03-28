@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-teaching-2
 venue: "University of Groningen, Faculty of Science and Engineering"
-date: 10/2020-01/2021
+date: 2020
 location: "Groningen, the Netherlands"
 ---
 I was a lecturer, together with [Prof. Stephan Trenn](https://stephantrenn.net/), of the course "Advanced Systems Theory" for bachelor students of Applied Mathematic at University of Groningen.  
