@@ -7,7 +7,7 @@ venue: "University of Groningen, Faculty of Science and Engineering"
 date: 10/2020-01/2021
 location: "Groningen, the Netherlands"
 ---
-I was a lecturer, together with [Prof. Stephan Trenn](https://stephantrenn.net/), of the course "Advanced Systems Theory" for bachelor students of applied mathematic in University of Groningen.  
+I was a lecturer, together with [Prof. Stephan Trenn](https://stephantrenn.net/), of the course "Advanced Systems Theory" for bachelor students of Applied Mathematic at University of Groningen.  
 
 
 Course description:

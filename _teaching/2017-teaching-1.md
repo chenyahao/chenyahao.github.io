@@ -8,6 +8,4 @@ date: 2017, 2018
 location: "Rouen, France"
 ---
 
-Working as teaching assistant of [Prof. Witold Respondek](http://lmi.insa-rouen.fr/9-membres/professeurs/19-respondek-witold.html) for the course:
-
-"Equations Différentielles" and  "Calcul Différentiel"
+Working as teaching assistant of [Prof. Witold Respondek](http://lmi.insa-rouen.fr/9-membres/professeurs/19-respondek-witold.html) for the course: "Equations Différentielles" and  "Calcul Différentiel"
