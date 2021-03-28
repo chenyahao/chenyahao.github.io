@@ -27,9 +27,28 @@ My work includes:
 * preparing questions for examination
 
 
-Slides are available:
+Slides are available here:
 ======
 
+\[[Lecture 4](http://chenyahao.github.io/files/Lecture4.pdf)\]
+
+\[[Lecture 5](http://chenyahao.github.io/files/Lecture5.pdf)\]
+
+\[[Lecture 6](http://chenyahao.github.io/files/Lecture6.pdf)\]
+
+\[[Lecture 7](http://chenyahao.github.io/files/Lecture7.pdf)\]
+
+\[[Lecture 8](http://chenyahao.github.io/files/Lecture8.pdf)\]
+
+\[[Lecture 9](http://chenyahao.github.io/files/Lecture9.pdf)\]
+
+\[[Lecture 10](http://chenyahao.github.io/files/Lecture10.pdf)\]
+
+\[[Lecture 11](http://chenyahao.github.io/files/Lecture11.pdf)\]
+
+\[[Lecture 12](http://chenyahao.github.io/files/Lecture12.pdf)\]
+
+\[[Lecture 13](http://chenyahao.github.io/files/Lecture13.pdf)\]
 
 
 
