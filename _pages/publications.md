@@ -41,6 +41,6 @@ C. Thesis
 
 D. Working Papers
 ======
-Y. Chenand S. Trenn (2021), Impulse-free jump solutions of nonlinear differential-algebraic
+Y. Chen and S. Trenn (2021), Impulse-free jump solutions of nonlinear differential-algebraic
 equations, \[[Version 1](http://chenyahao.github.io/files/D1Imp.pdf)\]
 
