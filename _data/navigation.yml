@@ -16,7 +16,7 @@ main:
     url: /code/
     
   - title: "CV"
-    url: /cv/
+    url:  https://chenyahao.github.io/cv.pdf
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
