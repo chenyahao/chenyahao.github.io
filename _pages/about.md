@@ -17,6 +17,13 @@ Research Interests
 * Geometric control methods
 * Switching DAEs with inconsistent initial values
 
+Contact information
+======
+* Email: yahao.chen@rug.nl;  chenyahao1991@gmail.com
+* Phone: +33768334227
+* Google Scholar: [Yahao Chen](https://scholar.google.com/citations?user=xTOD5hAAAAAJ&hl=en&authuser=1#)
+* Linkin: [Yahao CHEN](https://www.linkedin.com/in/%E9%9B%85%E8%B1%AA-%E9%99%88-81639113a/)
+
 My backgrounds
 ======
 * September 2019-Now, Postdoctoral researcher, Bernoulli Institute, University of Groningen, the Netherlands.
