@@ -9,6 +9,7 @@ location: "Rouen, FR"
 ---
 
 Abstract see my thesis: [link](https://chenyahao.github.io/files/C1Geo.pdf)
+
 ---
 
 Slides of the defence are available here: [link](https://chenyahao.github.io/files/talkthesis.pdf)
