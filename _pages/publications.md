@@ -39,3 +39,8 @@ C. Thesis
 ======
 * Yahao Chen (2019), "[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](https://tel.archives-ouvertes.fr/tel-02478957/)", Normandie University, INSA de Rouen. \[[PDF](http://chenyahao.github.io/files/C1Geo.pdf)\]
 
+D. Working Papers
+======
+Y. Chenand S. Trenn (2021), Impulse-free jump solutions of nonlinear differential-algebraic
+equations, \[[Version 1](http://chenyahao.github.io/files/D1Imp.pdf)\]
+
