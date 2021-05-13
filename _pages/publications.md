@@ -21,7 +21,7 @@ A. Journal Papers
 
 (A5) **Y. Chen\*** and W. Respondek (2021), [Feedback linearization of nonlinear differential-algebraic control systems](), first submission to *Nonlinear Dynamics*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
 
-(A6 **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), first submission to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
+(A6) **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), first submission to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
 
 B.  Conference Papers
 ======
