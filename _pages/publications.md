@@ -15,22 +15,22 @@ A. Journal Papers
  
 (A2) **Y. Chen\*** and W. Respondek (2020), [From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](), accepted by *Journal of the Franklin Institute*. \[[PDF](http://chenyahao.github.io/files/A2From.pdf)\]
 
-(A3) **Y. Chen\***, S. Trenn and W. Respondek (2020), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](), second submission to *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
+(A3) **Y. Chen\***, S. Trenn and W. Respondek (2020), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](), accepted by *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
 
-(A4) **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](), first submission to *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
+(A4) **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](), submitted to *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
 
-(A5) **Y. Chen\*** and W. Respondek (2021), [Feedback linearization of nonlinear differential-algebraic control systems](), first submission to *Nonlinear Dynamics*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
+(A5) **Y. Chen\*** and W. Respondek (2021), [Feedback linearization of nonlinear differential-algebraic control systems](), submitted to *Nonlinear Dynamics*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
 
-(A6) **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), first submission to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
+(A6) **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), submitted  to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
 
 B.  Conference Papers
 ======
  
-(B1)  **Y. Chen\*** and S. Trenn (2021), [An approximation for nonlinear differential-algebraic equations via singular perturbation theory](https://arxiv.org/abs/2103.12146), *IFAC Conference on Analysis and Design of Hybrid Systems*, accepted. \[[PDF](http://chenyahao.github.io/files/B1An.pdf)\]
+(B1)  **Y. Chen\*** and S. Trenn (2021), [An approximation for nonlinear differential-algebraic equations via singular perturbation theory](https://arxiv.org/abs/2103.12146), *IFAC Conference on Analysis and Design of Hybrid Systems*, in press. \[[PDF](http://chenyahao.github.io/files/B1An.pdf)\]
  
 (B2) **Y. Chen\*** and S. Trenn (2021), [The differentiation index of nonlinear differential‐algebraic equations versus the relative degree of nonlinear control systems](https://onlinelibrary.wiley.com/doi/full/10.1002/pamm.202000162),  *PAMM*, 20(1), e202000162. \[[PDF](http://chenyahao.github.io/files/B2The.pdf)\]
 
-(B3) **Y. Chen\*** S. Trenn (2021), [On geometric and differentiation index of nonlinear differential-algebraic equations](),  *24th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2020)*, accepted. \[[PDF](http://chenyahao.github.io/files/B3On.pdf)\]
+(B3) **Y. Chen\*** S. Trenn (2021), [On geometric and differentiation index of nonlinear differential-algebraic equations](),  *24th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2020)*, in press. \[[PDF](http://chenyahao.github.io/files/B3On.pdf)\]
 
 (B4) **Y. Chen\*** and W. Respondek (2019), Yahao Chen, Witold Respondek, [Internal and External Linearization of Semi-Explicit Differential Algebraic Equations](https://www.sciencedirect.com/science/article/pii/S2405896319317987), *IFAC-PapersOnLine*, Volume 52, Issue 16, 2019, Pages 292-297,. \[[PDF](http://chenyahao.github.io/files/B4Internal.pdf)\]
 
