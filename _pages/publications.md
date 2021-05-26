@@ -15,7 +15,7 @@ A. Journal Papers
  
 (A2) **Y. Chen\*** and W. Respondek (2020), [From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](), accepted by *Journal of the Franklin Institute*. \[[PDF](http://chenyahao.github.io/files/A2From.pdf)\]
 
-(A3) **Y. Chen\***, S. Trenn and W. Respondek (2020), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](), accepted by *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
+(A3) **Y. Chen\***, S. Trenn and W. Respondek (2020), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](), accepted by *International Journal of Robust and Nonlinear Control*, doi:10.1002/rnc.5623. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
 
 (A4) **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](), submitted to *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
 
