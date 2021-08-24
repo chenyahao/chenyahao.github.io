@@ -13,15 +13,15 @@ A. Journal Papers
 ======
 (A1)  **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of differential-algebraic equations via linear control theory](https://epubs.siam.org/doi/abs/10.1137/20M1329330?casa_token=AIu59d4mDwUAAAAA:BFTGUEdK5YBPDbBcmJzFPb7_RW9zHJgQUrE53TA-YdfACTxIWTuFB8MyNQivsiGkZdnwrH9Viw), *SIAM Journal on Control and Optimization*, 59, pp. 103-130. \[[PDF](http://chenyahao.github.io/files/A1Geo.pdf)\]
  
-(A2) **Y. Chen\*** and W. Respondek (2020), [From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](), accepted by *Journal of the Franklin Institute*. \[[PDF](http://chenyahao.github.io/files/A2From.pdf)\]
+(A2) **Y. Chen\*** and W. Respondek (2021), [From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](),   *Journal of the Franklin Institute*. \[[PDF](http://chenyahao.github.io/files/A2From.pdf)\]
 
-(A3) **Y. Chen\***, S. Trenn and W. Respondek (2020), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](), second submission to *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
+(A3) **Y. Chen\***, S. Trenn and W. Respondek (2021), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5623),   *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
 
-(A4) **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](), first submission to *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
+(A4) **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](), provisionally accepted by *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
 
-(A5) **Y. Chen\*** and W. Respondek (2021), [Feedback linearization of nonlinear differential-algebraic control systems](), first submission to *Nonlinear Dynamics*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
+(A5) **Y. Chen\*** and W. Respondek (2021), [Feedback linearization of nonlinear differential-algebraic control systems](),  submission to *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
 
-(A6) **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), first submission to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
+(A6) **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), submission to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
 
 B.  Conference Papers
 ======
