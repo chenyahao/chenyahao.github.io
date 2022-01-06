@@ -17,24 +17,29 @@ A. Journal Papers
 
 (A3) **Y. Chen\***, S. Trenn and W. Respondek (2021), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5623),   *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
 
-(A4) **Y. Chen\*** and W. Respondek (2021), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](), provisionally accepted by *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
+(A4) **Y. Chen\*** (2021), [Feedback linearization of nonlinear differential-algebraic control systems](),  *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A4Feed.pdf)\]
 
-(A5) **Y. Chen\*** and W. Respondek (2021), [Feedback linearization of nonlinear differential-algebraic control systems](),  submission to *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
+(A5) **Y. Chen\*** and W. Respondek (2022), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](),  accepted by *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A5Geo.pdf)\]
 
 (A6) **Y. Chen\*** and S. Trenn (2021), [Impulse-free jump solutions of nonlinear differential-algebraic equations](), submission to *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
+
+(A7) **Y. Chen\*** and S. Trenn (2022), [On impulse-free solutions  and stability of switched nonlinear differential-algebraic equations](),   *ready to be submitted*. \[[PDF](http://chenyahao.github.io/files/A7On.pdf)\]
+
 
 B.  Conference Papers
 ======
  
-(B1)  **Y. Chen\*** and S. Trenn (2021), [An approximation for nonlinear differential-algebraic equations via singular perturbation theory](https://arxiv.org/abs/2103.12146), *IFAC Conference on Analysis and Design of Hybrid Systems*, accepted. \[[PDF](http://chenyahao.github.io/files/B1An.pdf)\]
+(B1)  **Y. Chen\*** and S. Trenn (2021), [An approximation for nonlinear differential-algebraic equations via singular perturbation theory](https://arxiv.org/abs/2103.12146), *IFAC Conference on Analysis and Design of Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/B1An.pdf)\]
  
 (B2) **Y. Chen\*** and S. Trenn (2021), [The differentiation index of nonlinear differential‐algebraic equations versus the relative degree of nonlinear control systems](https://onlinelibrary.wiley.com/doi/full/10.1002/pamm.202000162),  *PAMM*, 20(1), e202000162. \[[PDF](http://chenyahao.github.io/files/B2The.pdf)\]
 
-(B3) **Y. Chen\*** S. Trenn (2021), [On geometric and differentiation index of nonlinear differential-algebraic equations](),  *24th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2020)*, accepted. \[[PDF](http://chenyahao.github.io/files/B3On.pdf)\]
+(B3) **Y. Chen\*** S. Trenn (2021), [On geometric and differentiation index of nonlinear differential-algebraic equations](),  *24th International Symposium on Mathematical Theory of Networks and Systems (MTNS 2020)* \[[PDF](http://chenyahao.github.io/files/B3On.pdf)\]
 
-(B4) **Y. Chen\*** and W. Respondek (2019), Yahao Chen, Witold Respondek, [Internal and External Linearization of Semi-Explicit Differential Algebraic Equations](https://www.sciencedirect.com/science/article/pii/S2405896319317987), *IFAC-PapersOnLine*, Volume 52, Issue 16, 2019, Pages 292-297,. \[[PDF](http://chenyahao.github.io/files/B4Internal.pdf)\]
+(B4) **Y. Chen\*** and W. Respondek (2019),  [Internal and External Linearization of Semi-Explicit Differential Algebraic Equations](https://www.sciencedirect.com/science/article/pii/S2405896319317987), *IFAC-PapersOnLine*, Volume 52, Issue 16, 2019, Pages 292-297,. \[[PDF](http://chenyahao.github.io/files/B4Internal.pdf)\]
 
 (B5) J. Dong*, **Y. Chen**, G.H. Yang (2014), [Reliable fuzzy stabilization against sensor faults.](https://ieeexplore.ieee.org/document/7231928?denied=), *2014 International Conference on Mechatronics and Control (ICMC)*, pp. 2059-2062. IEEE. \[[PDF](http://chenyahao.github.io/files/B5Rea.pdf)\]
+
+(B6) **Y. Chen\*** S. Trenn (2022), [Stability  analysis  of  switched  nonlinear  differential-algebraic  equationsvia  nonlinear  Weierstrass  form](),  submitted to *European Control Conference* \[[PDF](http://chenyahao.github.io/files/B6Sta.pdf)\]
 
 
 C. Thesis
@@ -43,5 +48,4 @@ C. Thesis
 
 D. Working Papers
 ======
-Y. Chen and S. Trenn (2021), Impulse-free jumps and stability analysis of  switched nonlinear differential-algebraic
-equations.
+Y. Chen, M. Ghanes, Jean-Pierre Barbot (2021), Input observability and input reconstruction of nonlinear control systems
