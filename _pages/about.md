@@ -15,18 +15,27 @@ Research Interests
 * Linear and nonlinear differential-algebraic equations (DAEs)
 * Nonlinear control systems
 * Geometric control methods
-* Switching DAEs with inconsistent initial values
+* Switched DAEs
+* Time-delay systems
 
 Contact information
 ======
-* Email: yahao.chen@rug.nl;  chenyahao1991@gmail.com
+* Email: yahao.chen@ls2n.fr;  chenyahao1991@gmail.com
 * Phone: +33768334227
-* Google Scholar: [Yahao Chen](https://scholar.google.com/citations?user=xTOD5hAAAAAJ&hl=en&authuser=1#)
+* Google Scholar: [Yahao Chen](https://scholar.google.com/citations?user=HYx4khcAAAAJ&hl=en&oi=ao)
+* Researchgate:  [Yahao Chen](https://www.researchgate.net/profile/Yahao-Chen)
 * Linkin: [Yahao CHEN](https://www.linkedin.com/in/%E9%9B%85%E8%B1%AA-%E9%99%88-81639113a/)
 
 My backgrounds
 ======
-* September 2019-Now, Postdoctoral researcher, Bernoulli Institute, University of Groningen, the Netherlands.
+* January 2022-Now, Postdoctoral Research Fellow, LS2N, Central Nantes, France
+
+    - Project: Input observation of nonlinear time-delayed systems and its application
+to torque estimations of electric motors  (PI: M. Ghanes), Renault Chair (https://renault-chair.ec-nantes.fr/)
+
+    - Supervisors: [M. Ghanes](https://scholar.google.com/citations?user=SkrL_TYAAAAJ&hl=en&oi=ao) and [J-P. Barbot](https://scholar.google.com/citations?user=MKZlpIUAAAAJ&hl=en&oi=ao)
+
+* September 2019-November 2021, Postdoctoral researcher, Bernoulli Institute, University of Groningen, the Netherlands.
 
     - Project: [Analysis and control of switched differential algebraic equations  (PI: S. Trenn)](https://stephantrenn.net/analysis-and-control-of-switched-differential-algebraic-equations/), NWO Vidi grant 639.032.733
 
