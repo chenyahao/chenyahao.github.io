@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my personal web-page! My name is Yahao Chen (陈雅豪).  I am a post-doc  researcher in the team [CODEx, LS2N](https://www.ls2n.fr/equipe/codex/) at [Ecole Centrale de Nantes](https://www.ec-nantes.fr/english-version) and my supervisors are [Malek Ghanes](https://scholar.google.com/citations?user=SkrL_TYAAAAJ&hl=en&oi=ao) and [Jean-Pierre Barbot](https://scholar.google.com/citations?user=MKZlpIUAAAAJ&hl=en&oi=ao)
-I was a post-doc researcher (09/2019-10/2021) in the group of [Systems, Control and Applied Analysis](https://www.rug.nl/staff/departments/11710) at [University of Groningen (RUG)](https://www.rug.nl/) and my supervisor is [Stephan Trenn](https://stephantrenn.net/). I was a PhD student of [LMI](http://lmi.insa-rouen.fr/) at [Institut National des Sciences Appliquées (INSA) de Rouen](https://www.insa-rouen.fr/) under the supervision of [Witold Respondek](http://lmi.insa-rouen.fr/9-membres/professeurs/19-respondek-witold.html).
+I was a post-doc researcher (09/2019-10/2021) in the group of [Systems, Control and Applied Analysis](https://www.rug.nl/staff/departments/11710) at [University of Groningen (RUG)](https://www.rug.nl/) and my supervisor is [Stephan Trenn](https://stephantrenn.net/). I was a PhD student (10/2015-07/2019) of [LMI](http://lmi.insa-rouen.fr/) at [Institut National des Sciences Appliquées (INSA) de Rouen](https://www.insa-rouen.fr/) under the supervision of [Witold Respondek](http://lmi.insa-rouen.fr/9-membres/professeurs/19-respondek-witold.html).
 
 Research Interests
 ======
