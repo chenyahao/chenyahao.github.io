@@ -32,7 +32,7 @@ My backgrounds
 * January 2022-Now, Postdoctoral Research Fellow, LS2N, Central Nantes, France
 
     - Project: Input observation of nonlinear time-delayed systems and its application
-to torque estimations of electric motors  (PI: M. Ghanes), Renault Chair (https://renault-chair.ec-nantes.fr/)
+to torque estimations of electric motors  (PI: M. Ghanes), [Renault Chair](https://renault-chair.ec-nantes.fr/)
 
     - Supervisors: [M. Ghanes](https://scholar.google.com/citations?user=SkrL_TYAAAAJ&hl=en&oi=ao) and [J-P. Barbot](https://scholar.google.com/citations?user=MKZlpIUAAAAJ&hl=en&oi=ao)
 
