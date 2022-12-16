@@ -53,4 +53,8 @@ C. Thesis
 
 D. Working Papers
 ======
-Y. Chen, M. Ghanes, Jean-Pierre Barbot (2021), Input observability and input reconstruction of nonlinear control systems
+Y. Chen, S.Trenn, S.Li, Stability and stabilization of state-dependent switched linear differential-algebraic equations
+
+Y. Chen, M. Ghanes, J-P. Barbot, Input observability and input reconstruction of time-delay nonlinear control systems
+
+
