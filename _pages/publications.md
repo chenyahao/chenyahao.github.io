@@ -23,7 +23,7 @@ A. Journal Papers
 
 (A6) **Y. Chen\*** and S. Trenn (2022), [Impulse-free jump solutions of nonlinear differential-algebraic equations](https://www.sciencedirect.com/science/article/abs/pii/S1751570X22000516), *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
 
-(A7) **Y. Chen\*** and S. Trenn (2022), [On impulse-free solutions  and stability of switched nonlinear differential-algebraic equations](),  submitted to *Automatica*. \[[PDF](http://chenyahao.github.io/files/A7On.pdf)\]
+(A7) **Y. Chen\*** and S. Trenn (2022), [On impulse-free solutions  and stability of switched nonlinear differential-algebraic equations](),  provisionally accepted by *Automatica* as a regular paper. \[[PDF](http://chenyahao.github.io/files/A7On.pdf)\]
 
 (A8) **Y. Chen\*** , M. Ghanes and J-P. Barbot (2022), [Strong left-invertibility and strong input-observability of nonlinear time-delay systems](https://ieeexplore.ieee.org/document/9971716),  *IEEE Control Systems Letters*. \[[PDF](http://chenyahao.github.io/files/A8Str.pdf)\]
 
@@ -56,5 +56,7 @@ D. Working Papers
 Y. Chen, S.Trenn, S.Li, Stability and stabilization of state-dependent switched linear differential-algebraic equations
 
 Y. Chen, M. Ghanes, J-P. Barbot, Input observability and input reconstruction of time-delay nonlinear control systems
+
+Y. Chen, M. Ghanes, J-P. Barbot, Robust LPV torque observation  for PMSM with model uncertainties  
 
 
