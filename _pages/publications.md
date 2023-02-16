@@ -17,9 +17,9 @@ A. Journal Papers
 
 (A3) **Y. Chen\***, S. Trenn and W. Respondek (2021), [Normal forms and internal regularization of nonlinear differential-algebraic control systems.](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5623),   *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A3Normal.pdf)\]
 
-(A4) **Y. Chen\*** (2022), [Feedback linearization of nonlinear differential-algebraic control systems](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5921),  *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A4Feed.pdf)\]
+(A4) **Y. Chen\*** (2022), [Feedback linearization of nonlinear differential-algebraic control systems](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.5921),  *International Journal of Robust and Nonlinear Control*. \[[PDF](http://chenyahao.github.io/files/A5Feed.pdf)\]
 
-(A5) **Y. Chen\*** and W. Respondek (2022), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](https://www.sciencedirect.com/science/article/pii/S0022039622000146),   *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A5Geo.pdf)\]
+(A5) **Y. Chen\*** and W. Respondek (2022), [Geometric analysis of nonlinear differential-algebraic equations via nonlinear control theory](https://www.sciencedirect.com/science/article/pii/S0022039622000146),   *Journal of Differential Equations*. \[[PDF](http://chenyahao.github.io/files/A4Geo.pdf)\]
 
 (A6) **Y. Chen\*** and S. Trenn (2022), [Impulse-free jump solutions of nonlinear differential-algebraic equations](https://www.sciencedirect.com/science/article/abs/pii/S1751570X22000516), *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
 
