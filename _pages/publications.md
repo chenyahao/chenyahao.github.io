@@ -28,7 +28,7 @@ A. Journal Papers
 (A8) **Y. Chen\*** , M. Ghanes and J-P. Barbot (2023), [Strong left-invertibility and strong input-observability of nonlinear time-delay systems](https://ieeexplore.ieee.org/document/9971716),  *IEEE Control Systems Letters*. \[[PDF](http://chenyahao.github.io/files/A8Str.pdf)\]
 
 (A9) **Y. Chen\*** , M. Ghanes and J-P. Barbot (2023), [Implicit function theorem for nonlinear time-delay systems with algebraic
-constraints](),  submitted to *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A9Imp.pdf)\]
+constraints](),  provisionally accepted at *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A9Imp.pdf)\]
 
 
 B.  Conference Papers
