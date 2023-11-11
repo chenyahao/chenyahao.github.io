@@ -23,12 +23,15 @@ A. Journal Papers
 
 (A6) **Y. Chen\*** and S. Trenn (2022), [Impulse-free jump solutions of nonlinear differential-algebraic equations](https://www.sciencedirect.com/science/article/abs/pii/S1751570X22000516), *Nonlinear Analysis: Hybrid Systems*. \[[PDF](http://chenyahao.github.io/files/A6Imp.pdf)\]
 
-(A7) **Y. Chen\*** and S. Trenn (2023), [On impulse-free solutions  and stability of switched nonlinear differential-algebraic equations](),  accepted by *Automatica* as a regular paper. \[[PDF](http://chenyahao.github.io/files/A7On.pdf)\]
+(A7) **Y. Chen\*** and S. Trenn (2023), [On impulse-free solutions  and stability of switched nonlinear differential-algebraic equations](https://www.sciencedirect.com/science/article/pii/S0005109823003692),    *Automatica* (Regular Paper). \[[PDF](http://chenyahao.github.io/files/A7On.pdf)\]
 
 (A8) **Y. Chen\*** , M. Ghanes and J-P. Barbot (2023), [Strong left-invertibility and strong input-observability of nonlinear time-delay systems](https://ieeexplore.ieee.org/document/9971716),  *IEEE Control Systems Letters*. \[[PDF](http://chenyahao.github.io/files/A8Str.pdf)\]
 
 (A9) **Y. Chen\*** , M. Ghanes and J-P. Barbot (2023), [Implicit function theorem for nonlinear time-delay systems with algebraic
-constraints](),  provisionally accepted at *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A9Imp.pdf)\]
+constraints](),  accepted by *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A9Imp.pdf)\]
+
+(A10) G. Zhang, J. Jia\*, J. Jiao and **Y. Chen** (2023), [Strong Structural Controllability Analysis of Structured Networks
+with Identical Nodes](),  submitted to *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
 
 
 B.  Conference Papers
