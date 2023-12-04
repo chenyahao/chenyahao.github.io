@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yahao Chen"
   avatar           : "photo1.JPG"
-  bio              : "Researcher (ISFP) at  <a style='color: black;' href='https://www.inria.fr/en/inria-centre-rennes-university'>INRIA Rennes</a> of the team <a style='color: black;' href='https://team.inria.fr/hycomes/'>HYCOMES</a>"
+  bio              : "Researcher (ISFP) at the team <a style='color: black;' href='https://team.inria.fr/hycomes/'>HYCOMES</a>" of <a style='color: black;' href='https://www.inria.fr/en/inria-centre-rennes-university'>INRIA Rennes</a> 
   location         : "Rennes, FR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HYx4khcAAAAJ&hl=en&oi=ao"
-  email : "yahao.chen@ls2n.fr"
+  email : "yahao.chen@inria.fr"
   researchgate     :   "https://www.researchgate.net/profile/Yahao-Chen"
   uri              :
   bitbucket        :
