@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yahao Chen"
   avatar           : "photo1.JPG"
-  bio              : "Postdoctoral Researcher at Ecole Centrale de Nantes, <a style='color: black;' href='https://www.ls2n.fr/'>LS2N, CNRS</a> & <a style='color: black;' href='https://www.ls2n.fr/equipe/codex/'>Team-CODEx</a>"
-  location         : "Nantes, FR"
+  bio              : "Researcher (ISFP) at INRIA Rennes, <a style='color: black;' href='https://www.inria.fr/en/inria-centre-rennes-university'>HYCOMES, INRIA Rennes</a> & <a style='color: black;' href='https://team.inria.fr/hycomes/'>Team-HYCOMES</a>"
+  location         : "Rennes, FR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HYx4khcAAAAJ&hl=en&oi=ao"
