@@ -21,8 +21,7 @@ Research Interests
 
 Contact information
 ======
-* Email: yahao.chen@ls2n.fr;  chenyahao1991@gmail.com
-* Phone: +33768334227
+* Email: yahao.chen@inria.fr;  chenyahao1991@gmail.com
 * Google Scholar: [Yahao Chen](https://scholar.google.com/citations?user=HYx4khcAAAAJ&hl=en&authuser=1)
 * Researchgate:  [Yahao Chen](https://www.researchgate.net/profile/Yahao-Chen)
 * Linkin: [Yahao CHEN](https://www.linkedin.com/in/%E9%9B%85%E8%B1%AA-%E9%99%88-81639113a/)
