@@ -31,7 +31,7 @@ A. Journal Papers
 constraints](https://ieeexplore.ieee.org/document/10315235),  *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A9Imp.pdf)\]
 
 (A10) G. Zhang, J. Jia\*, J. Jiao and **Y. Chen** (2023), [Strong Structural Controllability Analysis of Structured Networks
-with Identical Nodes](),  submitted to *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
+with Identical Nodes](),  in review at *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
 
 
 B.  Conference Papers
@@ -49,6 +49,9 @@ B.  Conference Papers
 
 (B6) **Y. Chen\*** S. Trenn (2022), [Stability  analysis  of  switched  nonlinear  differential-algebraic  equationsvia  nonlinear  Weierstrass  form](https://ieeexplore.ieee.org/document/9838148),  *European Control Conference* \[[PDF](http://chenyahao.github.io/files/B6Sta.pdf)\]
 
+(B7) **Y. Chen\*** S. Trenn (2024), [Solution concepts for linear piecewise affine differential-algebraic
+equations](), submitted to *IEEE Conference on Decision and Control* \[[PDF](http://chenyahao.github.io/files/B7Sol.pdf)\]
+
 
 C. Thesis
 ======
@@ -56,7 +59,7 @@ C. Thesis
 
 D. Working Papers
 ======
-Y. Chen, S.Trenn, S.Li, Stability and stabilization of state-dependent switched linear differential-algebraic equations
+Y. Chen, S.Trenn,  Stability and stabilization of state-dependent switched linear differential-algebraic equations
 
 Y. Chen, M. Ghanes, J-P. Barbot, Input observability and input reconstruction of time-delay nonlinear control systems
 
