@@ -61,8 +61,7 @@ D. Working Papers
 ======
 Y. Chen, S.Trenn,  Stability and stabilization of state-dependent switched linear differential-algebraic equations  \[[PDF](http://chenyahao.github.io/files/D1state.pdf)\]
 
-Y. Chen, M. Ghanes, J-P. Barbot, Input observability and input reconstruction of time-delay nonlinear control systems
-
-Y. Chen, M. Ghanes, J-P. Barbot, Robust LPV torque observation  for PMSM with model uncertainties  
+Y. Chen, M. Ghanes, J-P. Barbot, A. Fekik, Torque observation for a wound rotor synchronous machine with model uncertainties
+ 
 
 
