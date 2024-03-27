@@ -59,7 +59,7 @@ C. Thesis
 
 D. Working Papers
 ======
-Y. Chen, S.Trenn,  Stability and stabilization of state-dependent switched linear differential-algebraic equations
+Y. Chen, S.Trenn,  Stability and stabilization of state-dependent switched linear differential-algebraic equations  \[[PDF](http://chenyahao.github.io/files/D1state.pdf)\]
 
 Y. Chen, M. Ghanes, J-P. Barbot, Input observability and input reconstruction of time-delay nonlinear control systems
 
