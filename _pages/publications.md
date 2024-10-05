@@ -33,6 +33,9 @@ constraints](https://ieeexplore.ieee.org/document/10315235),  *IEEE Transactions
 (A10) G. Zhang, J. Jia\*, J. Jiao and **Y. Chen** (2023), [Strong Structural Controllability Analysis of Structured Networks
 with Identical Nodes](),  in review at *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
 
+(A11) Y. Chen, M. Ghanes,  A. Fekik, Torque observation of WRSM with model
+uncertainties for EV applications \[[PDF](http://chenyahao.github.io/files/A11torque.pdf)\]
+
 
 B.  Conference Papers
 ======
@@ -61,8 +64,7 @@ D. Working Papers
 ======
 Y. Chen, S.Trenn,  Stability and stabilization of state-dependent switched linear differential-algebraic equations  \[[PDF](http://chenyahao.github.io/files/D1state.pdf)\]
 
-Y. Chen, M. Ghanes,  A. Fekik, Torque observation of WRSM with model
-uncertainties for EV applications \[[PDF](http://chenyahao.github.io/files/D2torque.pdf)\]
+
 
  
 
