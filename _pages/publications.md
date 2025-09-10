@@ -34,7 +34,7 @@ constraints](https://ieeexplore.ieee.org/document/10315235),  *IEEE Transactions
 with Identical Nodes](),  in review at *Automatica*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
 
 (A11) **Y. Chen\***, M. Ghanes, A. Fekik and A. Maloum (2025), [Torque observation of WRSM with model
-uncertainties for EV applications](),  accepted by *IEEE Transactions on Control Systems Technology*. \[[PDF](http://chenyahao.github.io/files/A11Torque.pdf)\] 
+uncertainties for EV applications](10.1109/TCST.2025.3609396),  accepted by *IEEE Transactions on Control Systems Technology*. \[[PDF](http://chenyahao.github.io/files/A11Torque.pdf)\] 
 
 
 B.  Conference Papers
