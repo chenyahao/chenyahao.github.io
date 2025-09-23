@@ -1,9 +1,10 @@
 ---
-title: "Matlab code for the paper [(A2) From Morse triangular form of ODE control systems to feedback canonical form of DAE control systems](http://chenyahao.github.io/files/A2From.pdf)"
+title: "ANR-25-CE48-4916: Generalized Filippov solutions for
+discontinuous DAEs: Control and Simulations (GFdDAE) "
 collection: code
 type: ".m files"
-permalink: /code/FBCF 
-date: 2021-03-27 
+permalink: /projects/GFdDAE
+date: 2025-09-23
 ---
 
 We transform the DAE $E\dot x=Hx+Lu$ in the example of Section 5 into its feedback canonical form using Algorithm 4.6.
