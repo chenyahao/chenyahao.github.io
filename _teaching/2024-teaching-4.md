@@ -36,9 +36,9 @@ My work includes:
 Slides are available here:
 ======
 
-\[[Lecture 1](http://chenyahao.github.io/files/Lecture_ACEV1.pdf)\]
+\[[Lecture 1](http://chenyahao.github.io/files/ACEV1.pdf)\]
 
-\[[Lecture 2](http://chenyahao.github.io/files/Lecture_ACEV2.pdf)\]
+\[[Lecture 2](http://chenyahao.github.io/files/ACEV2.pdf)\]
  
 
 
