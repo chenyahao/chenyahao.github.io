@@ -35,6 +35,7 @@ My work includes:
 
 Slides are available here:
 ======
+\[[Book](http://chenyahao.github.io/files/ACEVBook.pdf)\]
 
 \[[Lecture 1](http://chenyahao.github.io/files/ACEV1.pdf)\]
 
