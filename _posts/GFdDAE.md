@@ -1,9 +1,9 @@
 ---
 title: "ANR-25-CE48-4916: Generalized Filippov solutions for
 discontinuous DAEs: Control and Simulations (GFdDAE)"
-collection: post
+collection: posts
 type: "ANR JCJC Project"
-permalink: /post/GFdDAE
+permalink: /posts/GFdDAE
 date: 2026-01-03
 ---
 

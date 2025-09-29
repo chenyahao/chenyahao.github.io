@@ -5,7 +5,7 @@ type: "Master course"
 permalink: /teaching/2024-teaching-4
 venue: "Ecole Centrale Nantes, E-pico"
 date: 2024-10-01
-location: "Groningen, the Netherlands"
+location: "Nantes"
 ---
 I was a lecturer of the course "Advanced Control of Electric Vehicle (ACEV)" for M2 students of Erasmus Epico programme at Ecole Centrale Nantes (ECN).  
 
