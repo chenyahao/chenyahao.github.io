@@ -1,12 +1,13 @@
 ---
-title: 'ANR-25-CE48-4916: Generalized Filippov solutions for
-discontinuous DAEs: Control and Simulations (GFdDAE)'
+title: "ANR-25-CE48-4916: Generalized Filippov solutions for
+discontinuous DAEs: Control and Simulations (GFdDAE)"
+collection: posts
+type: "ANR JCJC Project"
+permalink: /posts/GFdDAE
 date: 2026-01-03
-permalink: /posts/2016/01/GFdDAE/
-tags:
-  - ANR JCJC
-  - DAE
 ---
+
+
 
 Differential-algebraic equations (DAEs) arise naturally when modeling dynamical systems from first principles. In many cases, physical laws are expressed as combinations of differential and algebraic equations. This modeling approach is common in constrained mechanics, chemical and biological processes, power systems, and especially analog circuit design—where idealized components (e.g., resistors, capacitors, inductors) and Kirchhoff’s laws define the system dynamics. When these systems experience abrupt changes—such as switching in electric circuits, mechanical contacts, or discontinuous control inputs—discontinuous DAEs emerge. However, there is currently no comprehensive theoretical foundation for studying such systems. Challenges include:
 
