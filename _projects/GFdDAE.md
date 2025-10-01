@@ -5,7 +5,7 @@ type: "ANR JCJC"
 permalink: /projects/GFdDAE
 venue: "Fund: 160k€"
 date: 2025-10-01
-location: "INRIA Rennes"
+location: "France"
 ---
 
 Differential-algebraic equations (DAEs) arise naturally when modeling dynamical systems from first principles. In many cases, physical laws are expressed as combinations of differential and algebraic equations. This modeling approach is common in constrained mechanics, chemical and biological processes, power systems, and especially analog circuit design—where idealized components (e.g., resistors, capacitors, inductors) and Kirchhoff’s laws define the system dynamics. When these systems experience abrupt changes—such as switching in electric circuits, mechanical contacts, or discontinuous control inputs—discontinuous DAEs emerge. However, there is currently no comprehensive theoretical foundation for studying such systems. Challenges include:
