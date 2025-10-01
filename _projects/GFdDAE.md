@@ -3,7 +3,7 @@ title: "ANR-25-CE48-4916: GFdDAE"
 collection: projects
 type: "ANR JCJC"
 permalink: /projects/GFdDAE
-venue: " "
+venue: "Fund: 160k€"
 date: 2025-10-01
 location: "INRIA Rennes"
 ---
