@@ -4,7 +4,7 @@ discontinuous DAEs: Control and Simulations (GFdDAE)"
 collection: projects
 type: ".m files"
 permalink: /projects/GFdDAE
-date: 2026-01-03
+date: 2025-10-01
 ---
 
 
