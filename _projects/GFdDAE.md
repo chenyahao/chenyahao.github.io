@@ -1,5 +1,5 @@
 ---
-title: "ANR-25-CE48-4916:GFdDAE"
+title: "ANR-25-CE48-4916: GFdDAE"
 collection: projects
 type: "ANR JCJC"
 permalink: /projects/GFdDAE
