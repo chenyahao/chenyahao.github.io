@@ -13,7 +13,7 @@ I was a post-doc researcher (09/2019-10/2021) in the group of [Systems, Control 
 
 News
 ======
-* I am currently hiring a PhD student ([Position link](https://recrutement.inria.fr/public/classic/fr/offres/2025-09392)) and 2 internships with topics on DAEs or homogeneous differentiators.
+* I am currently hiring a PhD student ([Position link](https://recrutement.inria.fr/public/classic/fr/offres/2025-09392)) and 2 internships with topics on [discontinuous DAEs](http://chenyahao.github.io/files/stage1.pdf) or [DAE-based contracts](http://chenyahao.github.io/files/stage2.pdf).
 
 Research Interests
 ======
