@@ -30,11 +30,11 @@ A. Journal Papers
 (A9) **Y. Chen\*** , M. Ghanes and J-P. Barbot (2023), [Implicit function theorem for nonlinear time-delay systems with algebraic
 constraints](https://ieeexplore.ieee.org/document/10315235),  *IEEE Transactions on Automatic Control*. \[[PDF](http://chenyahao.github.io/files/A9Imp.pdf)\]
 
-(A10) G. Zhang, J. Jia\*, J. Jiao and **Y. Chen** (2023), [Strong Structural Controllability Analysis of Structured Networks
-with Identical Nodes](),  in review at *Automatica*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
+(A10) G. Zhang, J. Jia\*, J. Jiao and **Y. Chen** (2025), [Strong Structural Controllability Analysis of Structured Networks
+with Identical Nodes](),  accepted by *Automatica*. \[[PDF](http://chenyahao.github.io/files/A10Str.pdf)\]
 
 (A11) **Y. Chen\***, M. Ghanes, A. Fekik and A. Maloum (2025), [Torque observation of WRSM with model
-uncertainties for EV applications](https://ieeexplore.ieee.org/document/11169750),  accepted by *IEEE Transactions on Control Systems Technology*. \[[PDF](http://chenyahao.github.io/files/A11Torque.pdf)\] 
+uncertainties for EV applications](https://ieeexplore.ieee.org/document/11169750),    *IEEE Transactions on Control Systems Technology*. \[[PDF](http://chenyahao.github.io/files/A11Torque.pdf)\] 
 
 
 B.  Conference Papers
