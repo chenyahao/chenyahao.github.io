@@ -53,18 +53,20 @@ B.  Conference Papers
 (B6) **Y. Chen\*** S. Trenn (2022), [Stability  analysis  of  switched  nonlinear  differential-algebraic  equationsvia  nonlinear  Weierstrass  form](https://ieeexplore.ieee.org/document/9838148),  *European Control Conference* \[[PDF](http://chenyahao.github.io/files/B6Sta.pdf)\]
 
 (B7) **Y. Chen\*** S. Trenn (2024), [Solution concepts for linear piecewise affine differential-algebraic
-equations](), accepted by *IEEE Conference on Decision and Control* \[[PDF](http://chenyahao.github.io/files/B7Sol.pdf)\]
+equations](),  *IEEE Conference on Decision and Control* \[[PDF](http://chenyahao.github.io/files/B7Sol.pdf)\]
 
 
 C. Thesis
 ======
 * Yahao Chen (2019), "[Geometric analysis of differential-algebraic equations and control systems : linear, nonlinear and linearizable](https://tel.archives-ouvertes.fr/tel-02478957/)", Normandie University, INSA de Rouen. \[[PDF](http://chenyahao.github.io/files/C1Geo.pdf)\]
 
-D. Working Papers
+D. Working and Submitted Papers
 ======
 Y. Chen, S.Trenn,  Stability and stabilization of state-dependent switched linear differential-algebraic equations  \[[PDF](http://chenyahao.github.io/files/D1state.pdf)\]
 
+A. Benveniste, B. Caillaud, Y. Chen, K. Ghorbal1 and M. Malandain,  Structural Methods for handling mode changes in multimode DAE systems, *submitted to ECC2027*,  \[[PDF](http://chenyahao.github.io/files/D3.pdf)\]
 
+Y. Chen, A. Benveniste, B. Caillaud,  Implementation of differential-algebraic equations contracts, *submitted to ECC2027*,  \[[PDF](http://chenyahao.github.io/files/D4.pdf)\]
 
  
 
